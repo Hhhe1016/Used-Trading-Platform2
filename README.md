@@ -199,6 +199,7 @@ mysql5.7
 |Sales|	Int	 | 否|	   商品销量|
 |Uid	|Int	|  否|	发表的用户id|
 |Image|	Varchar(255)|	  否|	商品的图片地址
+|Address|Varchar(255)|否|卖家交易地址
 
 商品留言  
 
